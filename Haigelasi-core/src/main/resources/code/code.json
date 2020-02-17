@@ -1,0 +1,13 @@
+//代码生成配置，具体用法参考：http://enilu.gitee.io/web-flash/ecosystem/code-generator.html
+{
+  "codeConfig": {
+    "type": "com.haigelasi.mall.code.CodeConfig",
+    "fields": {
+      entityModel: "Haigelasi-core",
+      daoModel: "Haigelasi-core",
+      serviceModel: "Haigelasi-core",
+      controllerModel: "Haigelasi-admin-api",
+      viewModel: "Haigelasi-admin"
+    }
+  }
+}
